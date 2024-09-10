@@ -1,0 +1,1 @@
+Public data set from the Tempe campus of Arizona State University. Campus Metabolism collects data on all of the university’s energy consumption. The data contains daily load data of the integrated energy system of the campus from 2018 to 2023, including electrical load (KW), cooling load (Tons/h), heating load (mmBTU/h) and other data.
